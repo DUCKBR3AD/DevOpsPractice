@@ -7,7 +7,8 @@
 > *Цель проекта: создать масштабируемую и поддерживаемую архитектуру веб-приложения, которое может служить основой для более сложных проектов.*
 
 
-![Логотип Node.js] (https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+![Логотип Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+
 
 ---
 
