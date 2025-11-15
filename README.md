@@ -1,4 +1,4 @@
-#  Simple Notes API
+#  Notes API
 
 ## Описание проекта
 
